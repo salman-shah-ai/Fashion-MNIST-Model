@@ -71,7 +71,3 @@ A well-tuned CNN model typically achieves **>90% accuracy** on the Fashion-MNIST
 * Understand CNN-based image classification.
 * Learn how to visualize, preprocess, and split image datasets.
 * Gain insight into model optimization and performance tracking.
-
----
-
-Would you like me to extend this README with an additional section describing the **exact CNN layer architecture** and **training results** extracted directly from your notebook? That would make it more publication- or GitHub-ready.
